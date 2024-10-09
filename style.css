@@ -1,0 +1,51 @@
+
+body{background-color: gray;}
+.container{
+    width: 333px;
+    height: 460px;
+    background-color: black;
+    padding: 25px;
+    border-radius: 10px;
+    margin: auto;
+}
+#display{
+    background-color: lightskyblue;
+    height: 80px;
+    width: 310px;
+    margin: 5px;
+    font-size: 4rem;
+    text-align: right;
+    border-radius: 10px;
+}
+.buttonnumber{
+    background-color: bisque;
+    color: black;
+    width: 60px;
+    height: 50px;
+    font-size: 2.5rem;
+    margin: 10px;
+    border-radius: 10px;
+    border: transparent;
+    
+}
+.buttonoperator{
+    background-color: orangered;
+    color: black;
+    width: 60px;
+    height: 50px;
+    font-size: 2.5rem;
+    margin: 10px;
+    border-radius: 10px;
+    border: transparent;
+}
+.buttonsymbol{
+    background-color: orangered;
+    color: black;
+    width: 60px;
+    height: 50px;
+    font-size: 2rem;
+    margin: 10px;
+    border-radius: 10px;
+    border: transparent;
+}
+
